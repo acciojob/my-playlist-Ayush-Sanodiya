@@ -1,10 +1,4 @@
 
-hr{
-	height:4px;
-	border:none;
-	backgroud-color:red;
-	width:300px
-}
 body{
 	background-color: rgb(204, 204, 204);
 	display:flex;
@@ -22,6 +16,20 @@ h1,h2{
 	background-color: rgb(255, 255, 255);
 	width:400px;
 }
+.player_two{
+	border:1px solid black;
+	border-radius: 5px;
+	padding:10px;
+	background-color: rgb(255, 255, 255);
+	width:400px;
+}
 li{
 	list-style-type:none;
+}
+
+hr{
+	height:4px;
+	border:none;
+	backgroud-color:red;
+	width:300px
 }
