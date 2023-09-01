@@ -1,1 +1,40 @@
-/*  your css code here. If applicable */
+*{
+	font-family:arial;
+}
+hr{
+	width:300px
+}
+body{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+h1,h2{
+	text-align: center;
+}
+video{
+	width:400px;
+}
+.firstdiv{
+	margin:10px;
+	border:2px solid black;
+	border-radius:20px;
+}
+.seconddiv{
+	margin:10px;
+	overflow:hidden;
+	padding:30px;
+	border:2px solid black;
+	border-radius:20px;
+}
+.thirddiv{
+	margin:10px;
+	overflow:hidden;
+	padding:30px;
+	border:2px solid black;
+	border-radius:20px;
+}
+li{
+	list-style-type:none;
+}
