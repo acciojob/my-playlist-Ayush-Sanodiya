@@ -1,5 +1,8 @@
 
 hr{
+	height:4px;
+	border:none;
+	backgroud-color:red;
 	width:300px
 }
 body{
