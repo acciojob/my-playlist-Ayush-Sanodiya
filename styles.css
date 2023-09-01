@@ -1,11 +1,9 @@
-*{
-	color:grey;
-	font-family:arial;
-}
+
 hr{
 	width:300px
 }
 body{
+	background-color: rgb(204, 204, 204);
 	display:flex;
 	flex-direction:column;
 	justify-content:center;
@@ -14,29 +12,13 @@ body{
 h1,h2{
 	text-align: center;
 }
-video{
+.player_one{
+	border:1px solid black;
+	border-radius: 5px;
+	padding:10px;
+	background-color: rgb(255, 255, 255);
 	width:400px;
 }
-.firstdiv{
-	margin:10px;
-	border:2px solid lawngreen;
-	border-radius:20px;
-}
-.seconddiv{
-	margin:10px;
-	overflow:hidden;
-	padding:30px;
-	border:2px solid lawngreen;
-	border-radius:20px;
-}
-.thirddiv{
-	margin:10px;
-	overflow:hidden;
-	padding:30px;
-	border:2px solid lawngreen;
-	border-radius:20px;
-}
 li{
-	color:black;
 	list-style-type:none;
 }
