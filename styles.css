@@ -26,7 +26,9 @@ h1,h2{
 li{
 	list-style-type:none;
 }
-
+a{
+	text-decoration:none;
+}
 hr{
 	height:4px;
 	border:none;
