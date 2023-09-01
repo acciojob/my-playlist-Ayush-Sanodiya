@@ -30,8 +30,8 @@ a{
 	text-decoration:none;
 }
 hr{
-	height:4px;
 	border:none;
-	backgroud-color:red;
+	height:2px;
+	background-color: black;
 	width:300px
 }
